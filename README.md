@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kevmenzcoder
--..................................................................................................
 
 🚀 Desarrollador Front-end Jr apasionado por la creación de experiencias web excepcionales 🚀🚀
 
