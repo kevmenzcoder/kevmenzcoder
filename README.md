@@ -31,12 +31,6 @@ Si estás buscando a un desarrollador Front-end Jr motivado y con una sólida ba
 
 - [LinkedIn](www.linkedin.com/in/kevin-mendoza-jj)
 - [Correo Electrónico](kevinjoelmendoza287@gmail.com)
-- 
-
-¡Espero con interés la oportunidad de colaborar contigo en emocionantes proyectos Front-end!
-
-
-
 
 <!---
 kevmenzcoder/kevmenzcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
