@@ -6,7 +6,6 @@ Soy un apasionado desarrollador Front-end Jr con un enfoque en crear interfaces 
 
 ### 💼 Experiencia 
 
-- [TRYP WYNDHAM ] : Pasantía como Soporte Tecnico en el Area de Sistemas| 
   - Adquirí experiencia práctica trabajando con usuarios .
   - Aprendí a utilizar los Sistemas Operativos (WINDOWS , LINUX Y MAC OS).
   - Participé en la resolución de problemas y en la mejora de la usabilidad de aplicaciones web.
